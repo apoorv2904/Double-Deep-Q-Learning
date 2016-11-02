@@ -1,7 +1,8 @@
 # -----------------------------
-# File: Deep Q-Learning Algorithm
-# Author: Flood Sung
-# Date: 2016.3.21
+# File: Double-Deep-Q-Learning Algorithm
+# Author: Apoorv Vyas
+# Modified from work of Flood Sung on Deep-Q-learning
+# Date: 8 July 2016
 # -----------------------------
 
 import tensorflow as tf 
